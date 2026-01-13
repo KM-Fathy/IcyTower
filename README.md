@@ -49,8 +49,6 @@ Based on the source code, the critical file structure needed to run the game is:
 Project Root/
 │
 ├── Icy Tower.py         # Main game executable script
-├── Start Screen.png     # (Optional) For README display
-├── Game Over.png        # (Optional) For README display
 │
 └── assets/              # Directory containing required audio files
     ├── Background.mp3
