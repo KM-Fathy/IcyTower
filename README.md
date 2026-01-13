@@ -25,8 +25,8 @@ The objective is simple: jump up floating platforms, climb as high as possible, 
 
 To run this game, you need Python installed along with specific libraries.
 
-* **Python 3.x**
-* **Pygame** (For windowing and audio)
+* **Python 3.11.9**
+* **Pygame 2.6.1** (For windowing and audio)
 * **PyOpenGL** (For rendering)
 
 ## Installation
